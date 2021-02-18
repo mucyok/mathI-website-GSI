@@ -49,8 +49,8 @@ gantt
         Série 4            :    des4, after des3, 7d
         Série 5            :    des5, after des4, 7d
         Pas de série       :done,    des6, after des5, 7d
-        Série 6            :    des7, after des6, 7d
-        Sem. de lec. :done,  des8, after des7, 7d
+        Pâques            :done,    des7, after des6, 7d
+        Série 6            :  des8, after des7, 7d
         Série 7            :    des9, after des8, 7d
         Série 8            :    des10, after des9, 7d
         Série 9            :    des11, after des10, 7d
@@ -62,14 +62,14 @@ gantt
         Quiz 3 (12 mars)             :crit, active, after des3, 1d
         Quiz 4 (19 mars)             :crit, active, after des4, 1d
         Quiz 5 (26 mars)             :crit, active, after des5, 1d
-        Quiz 6 (10 nov)             :crit, active, after des8, 1d
-        Quiz 7 (17 nov)             :crit, active, after des9, 1d
-        Quiz 8 (24 nov)             :crit, active, after des10, 1d
-        Quiz 9 (01 déc)             :crit, active, after des11, 1d
-        Quiz 10 (08 déc)             :crit, active, after des12, 1d
-        Quiz 11 (15 déc)             :crit, active, after des13, 1d
+        Quiz 6 (16 avr)             :crit, active, after des8, 1d
+        Quiz 7 (23 avr)             :crit, active, after des9, 1d
+        Quiz 8 (30 avr)             :crit, active, after des10, 1d
+        Quiz 9 (07 mai)             :crit, active, after des11, 1d
+        Quiz 10 (14 mai)             :crit, active, after des12, 1d
+        Quiz 11 (21 mai)             :crit, active, after des13, 1d
         section Contrôle continu 
-        Contrôle continu (29 mars)          :crit, after des6, 1d
+        Contrôle continu (12 avril)          :crit, after des6, 1d
         Examen final (?? juin)              :crit, 2021-06-01, 1h
 {{< /mermaid >}}
 
