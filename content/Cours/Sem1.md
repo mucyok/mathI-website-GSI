@@ -17,6 +17,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6sCXvzcVZnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+{{% attachments style="grey" title="Pièces jointes" /%}}
+
 ### Vidéos mentionnées 
 
 1)  Les infinis différents de Cantor (facultatif) 
@@ -27,7 +30,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-I6XTVZXww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{{% attachments style="grey" title="Pièces jointes" /%}}
 
 <!--
 <iframe width="560" height="315"
