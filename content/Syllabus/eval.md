@@ -56,6 +56,7 @@ gantt
         Série 9            :    des11, after des10, 7d
         Série 10           :    des12, after des11, 7d
         Série 11           :    des13, after des12, 7d
+        Mock exam          :    des14, after des12, 7d
         section Deadline séries
         Quiz 1 (26 fév)            :crit, active, after des1, 1d
         Quiz 2 (05 mars)            :crit, active, after des2, 1d
