@@ -33,7 +33,7 @@ chapter = false
 
 Le cours est en format hybride:
 
-1) **Chaque vendredi après-midi, une série de vidéos sera postées sur le site web du cours dans la section [Cours](https://math1-gsi.netlify.app/cours/)**. Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles. **Ceci constitute le cours à proprement parler**.   
+1) **Chaque vendredi après-midi, une série de vidéos sera postée sur le site web du cours dans la section [Cours](https://math1-gsi.netlify.app/cours/)**. Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles. **Ceci constitute le cours à proprement parler**.   
 
 2) **Les séances de "cours/q&a" du lundi après-midi en live**, seront dédiées aux approfondissements de quelques points (pas essentiels pour suivre le cours) mais **principalement aux questions et réponses** sur les vidéos postées le vendredi précédant. Veuillez poser vos questions sur la page Speakup [ici](https://web.speakup.info/ng/room/602e9574a8b10fc5f8ddc7b9) et voter pour celles qui vous intéressent. **Cette séance est d'une durée d'heure en live**, accordant du temps pour visionner les vidéos lors de la première heure. La salle M 380 est accessible de 14.15 à 16.00.
 

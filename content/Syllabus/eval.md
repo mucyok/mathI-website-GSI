@@ -11,9 +11,9 @@ chapter = false
 
 La note finale est composée de 3 tests:
 
-1) **Une note sur les séries d'exercices**. Pour que **cette note compte**, il faut **au moins avoir rendu 8 séries**, i.e. avoir posté ses réponses sur les [quiz](https://moodle.unige.ch/course/view.php?id=8193) 8 fois.  La première série ne contribue pas à la note finale, mais sert à vous familiariser avec la manière de vous évaluer. **Si plus de 8 quiz ont été rendus, se sont les 8 meilleurs qui sont pris en compte dans la note**.
+1) **Une note sur les séries d'exercices**. Pour que **cette note compte**, il faut **au moins avoir rendu 8 séries**, i.e. avoir posté ses réponses sur les [quiz](https://moodle.unige.ch/course/view.php?id=7125) 8 fois.  La première série ne contribue pas à la note finale, mais sert à vous familiariser avec la manière de vous évaluer. **Si plus de 8 quiz ont été rendus, se sont les 8 meilleurs qui sont pris en compte dans la note**.
 
-2) **Un contrôle continu** lors du cours du 27.10.2020. Il s'agira d'un qcm. 
+2) **Un contrôle continu** lors du cours du 29.03.2021. Il s'agira d'un qcm. 
 
 
 3) **L'examen de fin de semestre**. Il s'agira aussi d'un qcm. 
@@ -36,14 +36,14 @@ Par exemple, si vous êtes absent au contrôle continu mais que vous avez rendu 
 
 ## Planning 
 
-Le planning ci-dessous vous indique, entre autres, les deadlines pour poster vos quiz sur [Moodle](https://moodle.unige.ch/course/view.php?id=8193). Cela doit être fait pour **chaque mardi avant minuit**. Il n'y aura **pas de possibilité de le faire après le délai**.
+Le planning ci-dessous vous indique, entre autres, les deadlines pour poster vos quiz sur [Moodle](https://moodle.unige.ch/course/view.php?id=7125). Cela doit être fait pour **chaque vendredi avant midi**. Il n'y aura **pas de possibilité de le faire après le délai**.
 
 {{<mermaid>}}
 gantt
         dateFormat  YYYY-MM-DD
         title Planning séries & contrôle continu
         section Séries 
-        Série 1            :    des1, 2020-09-15, 7d
+        Série 1            :    des1, 2021-02-22, 7d
         Série 2            :    des2, after des1, 7d
         Série 3            :    des3, after des2, 7d
         Série 4            :    des4, after des3, 7d
@@ -57,11 +57,11 @@ gantt
         Série 10           :    des12, after des11, 7d
         Série 11           :    des13, after des12, 7d
         section Deadline séries
-        Quiz 1 (22 sept)            :crit, active, after des1, 1d
-        Quiz 2 (29 sept)            :crit, active, after des2, 1d
-        Quiz 3 (06 oct)             :crit, active, after des3, 1d
-        Quiz 4 (13 oct)             :crit, active, after des4, 1d
-        Quiz 5 (20 oct)             :crit, active, after des5, 1d
+        Quiz 1 (26 fév)            :crit, active, after des1, 1d
+        Quiz 2 (05 mars)            :crit, active, after des2, 1d
+        Quiz 3 (12 mars)             :crit, active, after des3, 1d
+        Quiz 4 (19 mars)             :crit, active, after des4, 1d
+        Quiz 5 (26 mars)             :crit, active, after des5, 1d
         Quiz 6 (10 nov)             :crit, active, after des8, 1d
         Quiz 7 (17 nov)             :crit, active, after des9, 1d
         Quiz 8 (24 nov)             :crit, active, after des10, 1d
@@ -69,8 +69,8 @@ gantt
         Quiz 10 (08 déc)             :crit, active, after des12, 1d
         Quiz 11 (15 déc)             :crit, active, after des13, 1d
         section Contrôle continu 
-        Contrôle continu (27 oct)          :crit, after des6, 1d
-        Examen final (?? jan)              :crit, 2020-12-31, 1h
+        Contrôle continu (29 mars)          :crit, after des6, 1d
+        Examen final (?? juin)              :crit, 2021-06-01, 1h
 {{< /mermaid >}}
 
 
