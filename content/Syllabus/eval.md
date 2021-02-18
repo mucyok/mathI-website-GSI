@@ -56,7 +56,7 @@ gantt
         Série 9            :    des11, after des10, 7d
         Série 10           :    des12, after des11, 7d
         Série 11           :    des13, after des12, 7d
-        Mock exam          :    des14, after des12, 7d
+        Mock exam          :    des14, after des13, 7d
         section Deadline séries
         Quiz 1 (26 fév)            :crit, active, after des1, 1d
         Quiz 2 (05 mars)            :crit, active, after des2, 1d
@@ -70,7 +70,7 @@ gantt
         Quiz 10 (14 mai)             :crit, active, after des12, 1d
         Quiz 11 (21 mai)             :crit, active, after des13, 1d
         section Contrôle continu 
-        Contrôle continu (12 avril)          :crit, after des6, 1d
+        Contrôle continu (12 avr)          :crit, after des7, 1d
         Examen final (?? juin)              :crit, 2021-06-01, 1h
 {{< /mermaid >}}
 
