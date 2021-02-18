@@ -33,48 +33,30 @@ chapter = false
 
 Le cours est en format hybride:
 
-1) **Chaque mardi matin, une série de vidéos sera postées sur le site web du cours dans la section [Cours](https://mkaremera-math1.netlify.app/cours/)**. Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles. **Ceci constitute le cours à proprement parler**.   
+1) **Chaque vendredi après-midi, une série de vidéos sera postées sur le site web du cours dans la section [Cours](https://math1-gsi.netlify.app/cours/)**. Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles. **Ceci constitute le cours à proprement parler**.   
 
-2) **Les séances de "cours" du mardi matin en live**, seront dédiées aux approfondissements de quelques points (pas essentiels pour suivre le cours) mais **principalement aux questions et réponses**. Veuillez poser vos questions sur la page Speakup [ici](https://web.speakup.info/ng/room/5f631ca6a63f09218c65a712) et voter pour celles qui vous intéressent. **Cette séance est d'une durée d'heure en live**, accordant du temps pour visionner les vidéos lors de la deuxième heure. La salle M 380 est accessible de 10.15 à 12.00.
+2) **Les séances de "cours/q&a" du lundi après-midi en live**, seront dédiées aux approfondissements de quelques points (pas essentiels pour suivre le cours) mais **principalement aux questions et réponses** sur les vidéos postées le vendredi précédant. Veuillez poser vos questions sur la page Speakup [ici](https://web.speakup.info/ng/room/602e9574a8b10fc5f8ddc7b9) et voter pour celles qui vous intéressent. **Cette séance est d'une durée d'heure en live**, accordant du temps pour visionner les vidéos lors de la première heure. La salle M 380 est accessible de 14.15 à 16.00.
 
-| Enseignant | live Q&A | Horaire |
+| Enseignant | live Cours/Q&A | Horaire |
 | ------ |  ----------- | ----------- |
-| Mucyo Karemera   | Uni Mail, M R380 ([Zoom]( https://unige.zoom.us/j/95192904685)) |Mardi 10.15 - 11.00  |
+| Mucyo Karemera  | Uni Mail, M S150 ([Zoom](https://unige.zoom.us/j/99740071077)) | Lundi 15.00 - 16.00  |
 
 {{% notice info %}}
-La cours du 15 septembre sera dédié aux modalités générales du cours.
+La cours du 22 février sera dédié aux modalités générales du cours.
 {{% /notice %}}
 
 ## Séminaires 
 
-Il y a deux types de séminaires: un tutorat et deux séances de correction des séries d'exercices.
+**Les séances du vendredi après-midi sont dédiées à la correction des séries**. La salle M S150 est accessible de 12.15 à 14.00. 
 
-
-#### 1) Tutorat
-
-**La séance du mardi après-midi se veut être un prolongement de la séance de cours du matin**. Il est une opportunité supplémentaire pour poser des questions et aussi un moment où certains points pourront être approfondis. **Cette séance est d'une durée d'heure en live**, accordant du temps pour visionner les vidéos lors de la deuxième heure. La salle U 259 est accessible de 14.15 à 16.00.
-
-| Assistant |   Tutorat et Q&A | Horaire |
-| ------ | ------| ------ |  
-| Benjamin Poilane | Uni Dufour, U 259 ([Zoom](https://unige.zoom.us/j/93326172170)) | Mardi 14.15 - 15.00  |
-
-
-#### 2) Correction des séries d'exercices
-
-**Les séances du mercredi et du jeudi sont dédiées à la correction des séries**. La salle M 380 est accessible de 14.15 à 16.00 le mercredi et de 16.15 à 18.00 le jeudi. 
-
-| Assistants | Séminaires | Horaire | Etudiant-e-s |
+| Assistants | Séminaires | Horaire | 
 | ------ | ------ | ------ | ----------- | 
-| Guillaume Blanc   | Uni Mail M R380 ([Zoom](https://unige.zoom.us/my/willwhite)) | Mercredi 14.15 - 16.00  | Nom de famille de A à K
-| Hervégil Voegeli    | Uni Mail M R380 ([Zoom](https://unige.zoom.us/s/92184203611))  | Jeudi 16.15 - 18.00  | Nom de famille de L à Z et étudiant-e-s du BARI
+| Wenfei Chu    | Uni Mail M S150 ([Zoom](https://unige.zoom.us/j/6919256934))  | Vendredi 12.15 - 14.00  | 
 
-{{% notice info %}}
-Il n'y a pas de séminaire la première semaine.
-{{% /notice %}}
 
 ## Enregistrements
 
-Toutes les séances live seront enregistrées. Un lien sera envoyé après chaque séance, cours et séminaires, via une annonce Moodle. Si vous ne receverez pas d'email, les annonces sont [ici](https://moodle.unige.ch/mod/forum/view.php?id=306537).
+Toutes les séances live seront enregistrées. Un lien sera posté sur Moodle après chaque séance, cours et séminaires, [ici](https://moodle.unige.ch/course/view.php?id=7125).
 
 <!--
 Tentative list of topics that will be discussed in this class are listed below:
