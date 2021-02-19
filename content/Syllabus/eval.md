@@ -18,7 +18,7 @@ La note finale est composée de 3 tests:
 
 3) **L'examen de fin de semestre**. Il s'agira aussi d'un qcm. 
 
-Pour chaque test (quiz, contrôle continu et exa finale), le barème appliqué est le barème fédéral soit: note = 5 * (pts obt/pts tot) + 1. Les notes sont arrondies à la demi avec la convention les conventions usuelles (3,75 devient 4,0 et 5,67 devient 5,5).
+Pour chaque test (note finale des séries, contrôle continu et exa final), le barème appliqué est le barème fédéral soit: note = 5 * (pts obt/pts tot) + 1. Les notes sont arrondies au quart de bonne avec la convention les conventions usuelles (p.ex. 4,875 devient 5,0 et 4,625 devient 4,75).
 
 
 ## Calcul de la note finale
@@ -26,7 +26,7 @@ Pour chaque test (quiz, contrôle continu et exa finale), le barème appliqué e
 Le poids de chaque test  est le suivant: 15% série d'exo , 25% contrôle continu et 60% examen final.
 
 **La note finale est la note maximale entre** la note de l'examen final **et** la moyenne pondérée de tous les tests (série, c.c., exa final).
-Elle est arrondie à la demi selon la même convention que pour les tests.
+Elle est arrondie au quart de bonne selon la même convention que pour les tests.
 
 {{% notice warning %}}
 La note des séries et celle du contrôle continue sont donc bonus. Dans le cas où l'une de ces notes ne compte pas (si vous ne rendez pas 8 quiz ou si vous êtes absent le jour du contôle continu), le poids de celle-ci est transferé à l'examen final. 
