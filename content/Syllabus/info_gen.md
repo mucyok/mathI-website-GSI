@@ -35,14 +35,14 @@ Le cours est en format hybride:
 
 1) **Chaque vendredi après-midi, une série de vidéos sera postée sur le site web du cours dans la section [Cours](https://math1-gsi.netlify.app/cours/)**. Ces vidéos sont à visionner durant une semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles. **Ceci constitute le cours à proprement parler**.   
 
-2) **Les séances de "cours/q&a" du lundi après-midi en live**, seront dédiées aux approfondissements de quelques points (pas essentiels pour suivre le cours) mais **principalement aux questions et réponses** sur les vidéos postées le vendredi précédant. Veuillez poser vos questions sur la page Speakup [ici](https://web.speakup.info/ng/room/602e9574a8b10fc5f8ddc7b9) et voter pour celles qui vous intéressent. **Cette séance est d'une durée d'heure en live**, accordant du temps pour visionner les vidéos lors de la première heure. La salle M 380 est accessible de 14.15 à 16.00.
+2) **Les séances de "cours/q&a" du lundi après-midi en live**, seront dédiées aux approfondissements de quelques points (pas essentiels pour suivre le cours) mais **principalement aux questions et réponses** sur les vidéos postées le vendredi précédant. Veuillez poser vos questions sur la page Speakup [ici](https://web.speakup.info/ng/room/602e9574a8b10fc5f8ddc7b9) et voter pour celles qui vous intéressent. **Cette séance est d'une durée d'heure en live**, accordant du temps pour visionner les vidéos lors de la première heure. La salle M S150 est accessible de 14.15 à 16.00.
 
 | Enseignant | live Cours/Q&A | Horaire |
 | ------ |  ----------- | ----------- |
-| Mucyo Karemera  | Uni Mail, M S150 ([Zoom](https://unige.zoom.us/j/99740071077)) | Lundi 15.00 - 16.00  |
+| Mucyo Karemera  | Uni Mail, M S150 ([Zoom](https://unige.zoom.us/j/99740071077)) | Lundi 15.15 - 16.00  |
 
 {{% notice info %}}
-La cours du 22 février sera dédié aux modalités générales du cours.
+La cours du 22 février sera largement dédié aux modalités générales du cours.
 {{% /notice %}}
 
 ## Séminaires 

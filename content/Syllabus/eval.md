@@ -13,7 +13,7 @@ La note finale est composée de 3 tests:
 
 1) **Une note sur les séries d'exercices**. Pour que **cette note compte**, il faut **au moins avoir rendu 8 séries**, i.e. avoir posté ses réponses sur les [quiz](https://moodle.unige.ch/course/view.php?id=7125) 8 fois.  **La première série ne contribue pas à la note finale**, mais sert à vous familiariser avec la manière de vous évaluer. **Si plus de 8 quiz ont été rendus, se sont les 8 meilleurs qui sont pris en compte dans la note**.
 
-2) **Un contrôle continu** lors du cours du 29.03.2021. Il s'agira d'un qcm. 
+2) **Un contrôle continu** lors du cours du 12.04.2021. Il s'agira d'un qcm. 
 
 
 3) **L'examen de fin de semestre**. Il s'agira aussi d'un qcm. 
