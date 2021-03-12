@@ -25,7 +25,7 @@ Vidéos disponible le 29 septembre 2020
 
 {{% attachments style="grey" title="Pièces jointes" /%}}
 
-### Vidéos complémentaires (recommandées)
+### Vidéos complémentaires
 
 Sur la continuité
 
