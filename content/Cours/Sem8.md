@@ -40,6 +40,7 @@ Vidéos disponible le 29 septembre 2020
 
 ### Vidéos supplémantaires recommandées
 
+
 1) Le plan tangent
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QL6qb1h65hg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
